@@ -25,7 +25,7 @@ SECRET_KEY = '1najv(r+rx(s=h33g!-t^6hf8&8)=+3zvlk1q4%hg)l_=*_en7'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['herokudjangoapp.herokuapp.com']
+ALLOWED_HOSTS = ['restaurantapidjango.herokuapp.com']
 
 
 # Application definition
